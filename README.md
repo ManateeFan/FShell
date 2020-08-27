@@ -13,7 +13,7 @@ A simple cpp shell.
 
 To compile this software you must use a gcc terminal.
 1. Open the bash terminal
-2. To compile, $ g++ --std=c++14 -o FShell FShell.cpp
+2. To compile, $ g++ --std=c++14 -o FShell Fshell.cpp
 3. To run, ./FShell
 
 ## Preview
